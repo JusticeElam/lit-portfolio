@@ -2,7 +2,7 @@
 
 A personal frontend developer portfolio showcasing my skills, projects, experience, and professional information.
 
-## Features
+## 🚀 Features
 
 - Responsive portfolio design
 - About me section
@@ -13,7 +13,7 @@ A personal frontend developer portfolio showcasing my skills, projects, experien
 - Responsive layout for desktop, tablet, and mobile devices
 - Clean and user-friendly interface
 
-## Technologies
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
@@ -21,9 +21,9 @@ A personal frontend developer portfolio showcasing my skills, projects, experien
 - Responsive Web Design
 - UI/UX Design
 
-## Live Demo
+## 🔗 Live Demo
 
-[View Live Website](https://justiceelam.github.io/My_Portfolio/)
+[View Live Website](justiceelam.github.io/lit-portfolio/)
 
 ## Author
 

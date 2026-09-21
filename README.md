@@ -23,7 +23,7 @@ A personal frontend developer portfolio showcasing my skills, projects, experien
 
 ## 🔗 Live Demo
 
-[View Live Website](justiceelam.github.io/lit-portfolio/)
+[View Live Website](https://justiceelam.github.io/lit-portfolio/)
 
 ## Author
 
